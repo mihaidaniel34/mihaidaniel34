@@ -1,7 +1,7 @@
 ![Header](./banner.png)
 
 - 🔭 I’m currently working at [Montran Romania](https://www.montran.com/)
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go&Kotlin**
 - 📚 Starting Software Engineering Master's Degree in Oct 2023
 
 <h3 align="left">Connect with me:</h3>
