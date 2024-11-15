@@ -1,12 +1,22 @@
-![Header](./banner.png)
+# 👋 Hi there, I'm Mihai-Daniel
 
-- 🔭 I’m currently working at [Montran Romania](https://www.montran.com/)
-- 🌱 I’m currently learning **Go&Kotlin**
+[![GitHub followers](https://img.shields.io/github/followers/mihaidaniel34?label=Follow&style=social)](https://github.com/mihaidaniel34)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mihai-daniel-potirniche-0321171ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihai-daniel-potirniche-0321171ba" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+Passionate about programming and problem solving
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🔭 I'm currently working at Montran Romania
+- 🌱 I'm currently learning: Rust, Go, LLMs
+- 👯 I'm looking to collaborate on interesting open-source projects
+- 📫 How to reach me: contact@danielmihai.com or [/in/mihai-daniel-p](https://linkedin.com/in/mihai-daniel-p)
+
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-daniel-p)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.danielmihai.com)
+
+
