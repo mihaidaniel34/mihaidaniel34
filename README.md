@@ -7,7 +7,7 @@ Passionate about programming and problem solving
 
 - 🔭 I'm currently working at Montran Romania
 - 🌱 I'm currently learning: Rust, Go, LLMs
-- 👯 I'm looking to collaborate on interesting open-source projects
+- 👯 I'm looking to collaborate on interesting projects
 - 📫 How to reach me: contact@danielmihai.com or [/in/mihai-daniel-p](https://linkedin.com/in/mihai-daniel-p)
 
 ## 🛠️ Technologies & Tools
