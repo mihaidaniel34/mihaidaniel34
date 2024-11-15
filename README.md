@@ -11,12 +11,10 @@ Passionate about programming and problem solving
 - 📫 How to reach me: contact@danielmihai.com or [/in/mihai-daniel-p](https://linkedin.com/in/mihai-daniel-p)
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)]()
+[![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)]()
+[![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)]()
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-daniel-p)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.danielmihai.com)
-
-
